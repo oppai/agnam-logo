@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="agnam-logo.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path3916"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         id="path3812"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3785"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path3800"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3782"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3803"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.85"
+     inkscape:cx="189.79514"
+     inkscape:cy="812.187"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2220"
+     inkscape:window-height="1240"
+     inkscape:window-x="1336"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2989"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2991"><rect
+           id="rect2993"
+           width="178.72182"
+           height="68.334808"
+           x="7.8847857"
+           y="20.112303" /></flowRegion><flowPara
+         id="flowPara2995"></flowPara></flowRoot>    <g
+       id="g12104">
+      <text
+         transform="scale(1.0558365,0.94711635)"
+         sodipodi:linespacing="125%"
+         id="text2985"
+         y="97.774384"
+         x="45.137222"
+         style="font-size:75.25417328000000339px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nanum Pen Script;-inkscape-font-specification:Nanum Pen Script;font-stretch:normal;font-variant:normal"
+         xml:space="preserve"><tspan
+           style="-inkscape-font-specification:Nanum Pen Script;font-family:Nanum Pen Script;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           y="97.774384"
+           x="45.137222"
+           id="tspan2987"
+           sodipodi:role="line">AGNAM</tspan></text>
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path8519"
+         d="m 66.756103,100.33368 c 2.898915,0.54816 6.276614,1.04921 10.177932,1.45981 25.017895,2.63306 71.568275,1.54666 151.474395,-14.687164"
+         style="fill:none;stroke:#000000;stroke-width:1.57946491;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.51798522;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:none"
+         d="m 222.84894,29.900067 c -2.60913,-0.562552 -5.64917,-1.076758 -9.16051,-1.498138 C 191.17146,25.699736 149.27446,26.81466 77.356125,43.474713"
+         id="path11071"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g12110">
+      <text
+         xml:space="preserve"
+         style="font-size:44.4367981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Hiragino Maru Gothic Pro;-inkscape-font-specification:Hiragino Maru Gothic Pro"
+         x="54.650082"
+         y="222.33353"
+         id="text11091"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0097454,0.99034866)"><tspan
+           sodipodi:role="line"
+           id="tspan11093"
+           x="54.650082"
+           y="222.33353"
+           style="font-size:44.4367981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Hiragino Maru Gothic Pro;-inkscape-font-specification:Hiragino Maru Gothic Pro">AGNAM</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.57946491;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:none"
+         d="m 65.168801,236.84162 c 2.898915,0.54816 6.276614,1.04921 10.177932,1.45981 25.017897,2.63306 71.568277,1.54666 151.474397,-14.68717"
+         id="path11095"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path11097"
+         d="m 221.26164,170.86205 c -2.60913,-0.37797 -5.64917,-0.72346 -9.16051,-1.00657 -22.51697,-1.81557 -64.41397,-1.06647 -136.332307,10.12717"
+         style="fill:none;stroke:#000000;stroke-width:1.24427116;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:none" />
+    </g>
+    <g
+       id="g12141">
+      <text
+         xml:space="preserve"
+         style="font-size:44.4655838px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold"
+         x="372.71503"
+         y="77.429802"
+         id="text11122"
+         sodipodi:linespacing="125%"
+         transform="scale(0.9448423,1.0583777)"><tspan
+           sodipodi:role="line"
+           id="tspan11124"
+           x="372.71503"
+           y="77.429802"
+           style="font-size:44.4655838px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold">AGNAM</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path11900"
+         d="m 336.71833,89.014731 209.98854,0"
+         style="fill:none;stroke:#000000;stroke-width:2.3594203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInL)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.35662723;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInL)"
+         d="m 555.93328,37.443232 -209.49167,0"
+         id="path12094"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g12147"
+       transform="translate(-3.3980582,102.42718)" />
+    <g
+       id="g12189">
+      <text
+         xml:space="preserve"
+         style="font-size:44.46558379999999744px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold"
+         x="372.71503"
+         y="77.429802"
+         id="text12149"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.9448423,0,0,1.0583777,-3.3980582,102.42718)"><tspan
+           id="tspan12157"
+           sodipodi:role="line"
+           x="372.71503"
+           y="77.429802"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold">Agna</tspan></text>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path12153"
+         d="m 340.68792,92.75467 2.83046,0 10.67962,0 18.4466,0 126.31852,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInL)"
+         transform="translate(-3.3980582,102.42718)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInL)"
+         d="m 547.01034,42.010488 -178.3548,0"
+         id="path12155"
+         inkscape:connector-curvature="0"
+         transform="translate(-3.3980582,102.42718)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text12165"
+         y="194.5952"
+         x="486.89322"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold"
+           y="194.5952"
+           x="486.89322"
+           id="tspan12167"
+           sodipodi:role="line">M</tspan></text>
+    </g>
+    <g
+       id="g12197"
+       transform="translate(-1.1965812,75.384616)">
+      <g
+         id="g12217"
+         transform="translate(-1.1965812,37.264957)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path12203"
+           d="m 358.31404,200.13911 3.18727,0 12.02587,0 20.77193,0 142.24198,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInL)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInL)"
+           d="m 527.37297,139.13852 -178.3548,0"
+           id="path12205"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(1.4987915,-0.0927124)"
+           id="g12211">
+          <text
+             transform="matrix(0.9448423,0,0,1.0583777,-3.3980582,102.42718)"
+             sodipodi:linespacing="125%"
+             id="text12199"
+             y="77.429802"
+             x="372.71503"
+             style="font-size:44.4655838px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold"
+             xml:space="preserve"><tspan
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold"
+               y="77.429802"
+               x="372.71503"
+               sodipodi:role="line"
+               id="tspan12201">Agna</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="486.89322"
+             y="194.5952"
+             id="text12207"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan12209"
+               x="486.89322"
+               y="194.5952"
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Hiragino Kaku Gothic Std;-inkscape-font-specification:Hiragino Kaku Gothic Std Ultra-Bold">M</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+         x="63.541668"
+         y="337.25803"
+         id="text12226"
+         sodipodi:linespacing="125%"
+         transform="translate(1.1965812,-75.384616)"><tspan
+           sodipodi:role="line"
+           id="tspan12228"
+           x="63.541668"
+           y="337.25803">Agnam</tspan></text>
+    </g>
+  </g>
+</svg>
